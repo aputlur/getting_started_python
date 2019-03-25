@@ -69,8 +69,10 @@ print('     {}'.format('*' * len(var1)))
 
 # String slices
 print('Anil kumar reddy putluru '[11:17])
-input_string = input('enter your name')
+# input_string = input('enter your name')
 print('Your name is ')
-print(input_string)
+# print(input_string)
 
-
+# is title
+print('Anil'.istitle())
+print('123'.isdigit())
